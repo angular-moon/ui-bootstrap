@@ -9,7 +9,7 @@
     ],
     "shim": {
         "ui-bootstrap.js": {
-            "deps": ["angular","bootstrap"],
+            "deps": ["angular"],
             "exports": "'ui.bootstrap'"
         }
     }
